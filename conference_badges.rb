@@ -1,6 +1,6 @@
 def badge_maker(name)
+  name = 'Arel'
   puts "Hello, my name is #{name}."
-  name.chomp
 end
 
 def batch_badge_creator(array)
