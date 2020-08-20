@@ -19,6 +19,6 @@ def assign_rooms(array)
 end
 
 def printer(array)
-  return arr 
+  return arr
   return room_assignments
 end
