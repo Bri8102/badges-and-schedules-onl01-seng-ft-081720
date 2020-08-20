@@ -4,6 +4,5 @@ end
 
 def batch_badge_creator(array)
    array.each do |name|
-   return badge_maker
- end
+   return "#{badge_maker}"
 end
